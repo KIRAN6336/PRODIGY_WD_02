@@ -1,0 +1,41 @@
+body{
+    background-color: goldenrod; 
+}
+
+.stop{
+    display: flex;
+}
+
+
+.container{
+    background-color: rgb(20, 15, 10);
+    width: 500px;
+    padding: 100px;
+    text-align: center;
+    border: 4px solid white;
+    margin-left: 28%;
+    margin-top: 10%;
+}
+.container .txt{
+    font-size: 80px;
+    color: white;
+    display: flex;
+    margin-left: 7%;
+
+    
+
+}
+ 
+.container button{
+    width: 120px;
+    height: 38px;
+    border: none;
+    background-color: slategrey;
+    color: white;
+    margin-inline: 11px;
+    border-radius: 4px;
+    font-size: 20px;
+    margin-top: 30px;
+    outline: none;
+
+}
